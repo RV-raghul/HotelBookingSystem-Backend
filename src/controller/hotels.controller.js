@@ -141,6 +141,7 @@ const getHotelById = async (req, res) => {
           id: 1,
           name: 1,
           location: 1,
+          title: 1,
           description: 1,
           price: 1,
           guest: 1,
